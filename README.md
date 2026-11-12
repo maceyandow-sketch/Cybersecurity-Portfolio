@@ -24,4 +24,4 @@ See [certs-and-training](./certs-and-training) for details.
 _Write-ups from Cybersecurity Club CTFs and TryHackMe rooms will go here._
 
 ## 📫 Contact
-[LinkedIn](www.linkedin.com/in/maceyandow) · [GitHub](https://github.com/maceyandow-sketch))
+[LinkedIn](https://www.linkedin.com/in/maceyandow/) · [GitHub](https://github.com/maceyandow-sketch))
