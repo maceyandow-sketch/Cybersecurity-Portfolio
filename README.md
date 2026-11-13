@@ -8,7 +8,7 @@ Hands-on projects, labs, and write-ups from my time studying Cybersecurity at th
 
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 01 | [Home Lab & Network Scan](./01-home-lab) | VirtualBox, Kali, Nmap, Wireshark | 🚧 In progress |
+| 01 | [Home Lab & Network Scan](./01-home-lab) | VirtualBox, Kali, Nmap, Wireshark | ✅ Complete |
 | 02 | [Personal Finance Tracker](./02-finance-tracker) | Python, CSV, matplotlib, input validation | ✅ Complete |
 
 ## 🎓 Certifications & Training
