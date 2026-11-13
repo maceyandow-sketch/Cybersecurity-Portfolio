@@ -8,20 +8,18 @@ Hands-on projects, labs, and write-ups from my time studying Cybersecurity at th
 
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 01 | [Home Lab & Network Scan](./01-home-lab) | VirtualBox, Kali, Nmap, Wireshark | ✅ Complete |
-| 02 | [Personal Finance Tracker](./02-finance-tracker) | Python, CSV, matplotlib, input validation | ✅ Complete |
+| 01 | [Home Lab & Network Scan](./01-home-lab) | UTM, Kali Linux, Nmap, Metasploitable 2 | ✅ Complete |
+| 02 | Personal Finance Tracker | Python, CSV, matplotlib, input validation | 🚧 Uploading soon |
 
 ## 🎓 Certifications & Training
 
 | Name | Provider | Status |
 |------|----------|--------|
-| CompTIA Network+ | CompTIA | 📆 Planned |
+| CompTIA Network+ | CompTIA | 📅 Planned |
 | CompTIA Security+ | CompTIA | 📅 Planned |
-
-See [certs-and-training](./certs-and-training) for details.
 
 ## 🏁 CTFs & Practice
 _Write-ups from Cybersecurity Club CTFs and TryHackMe rooms will go here._
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/maceyandow/) · [GitHub](https://github.com/maceyandow-sketch))
+[LinkedIn](https://www.linkedin.com/in/maceyandow/) · [GitHub](https://github.com/maceyandow-sketch)
